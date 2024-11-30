@@ -43,6 +43,5 @@ public class Gaulois {
 		System.out.println(asterix);
 		asterix.parler("Bonjour je suis Astérix !");
 		asterix.boirePotion(6);
-		return;
 	}
 }
